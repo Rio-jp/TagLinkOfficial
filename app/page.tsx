@@ -97,7 +97,7 @@ export default function TagLinkPage() {
                       : "none",
                 }}
               >
-                <Image src="icon.png" alt="TagLink アプリアイコン" width={64} height={64} className="h-16 w-16" />
+                <Image src="/TagLinkOfficial/icon.png" alt="TagLink アプリアイコン" width={64} height={64} className="h-16 w-16" />
               </div>
             </div>
             <h1 className="text-5xl md:text-7xl font-bold text-balance mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
@@ -142,7 +142,7 @@ export default function TagLinkPage() {
           >
             <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent z-10"></div>
             <Image
-              src="screenshot.png"
+              src="/TagLinkOfficial/screenshot.png"
               alt="TagLink アプリケーション画面"
               width={1920}
               height={1080}
@@ -331,7 +331,7 @@ export default function TagLinkPage() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-3 mb-4 md:mb-0">
               <div className="h-8 w-8 rounded bg-primary/10 flex items-center justify-center">
-                <Image src="icon.png" alt="TagLink" width={24} height={24} className="h-6 w-6" />
+                <Image src="/TagLinkOfficial/icon.png" alt="TagLink" width={24} height={24} className="h-6 w-6" />
               </div>
               <span className="text-xl font-bold text-primary">TagLink</span>
             </div>
