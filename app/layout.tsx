@@ -6,8 +6,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'TagLink',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  description: 'フォルダとタグで、お気に入りのURLを効率的に管理するデスクトップアプリケーション',
+  generator: 'rio',
 }
 
 export default function RootLayout({
