@@ -11,6 +11,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
+  basePath: '/TagLinkOfficial',
+  assetPrefix: '/TagLinkOfficial',
 }
 
 export default nextConfig
