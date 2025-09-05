@@ -123,7 +123,7 @@ export default function TagLinkPage() {
                 className="text-lg px-8 py-6 border-primary text-primary hover:bg-primary/5 bg-transparent transition-all duration-300 hover:scale-105 hover:shadow-lg"
                 asChild
               >
-                <a href="https://booth.pm/ja/items/YOUR_BOOTH_ID" target="_blank" rel="noopener noreferrer">
+                <a href="https://booth.pm/ja/items/7391216" target="_blank" rel="noopener noreferrer">
                   <DownloadIcon className="mr-2 h-5 w-5" />
                   Boothで購入
                 </a>
@@ -307,7 +307,7 @@ export default function TagLinkPage() {
                 className="text-lg px-8 py-6 bg-white text-primary hover:bg-white/90 transition-all duration-300 hover:scale-105 hover:shadow-xl"
                 asChild
               >
-                <a href="https://booth.pm/ja/items/YOUR_BOOTH_ID" target="_blank" rel="noopener noreferrer">
+                <a href="https://booth.pm/ja/items/7391216" target="_blank" rel="noopener noreferrer">
                   <DownloadIcon className="mr-2 h-5 w-5" />
                   Boothで購入 - ¥500
                 </a>
